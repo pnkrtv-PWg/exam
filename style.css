@@ -1,0 +1,13 @@
+.hide {
+    display: none;
+}
+
+.container {
+    margin: 0 auto;
+    width: max-content;
+    font-family: 'Comic Sans MS';
+}
+
+.container h1{
+    text-align: center;
+}
